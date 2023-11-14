@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34221.43
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PokemonBattleSim", "PokemonBattleSim.csproj", "{B6EEADFE-8105-4318-B44B-A8AB16BEA7A3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PokemonBattleSim", "PokemonBattleSim\PokemonBattleSim.csproj", "{468DE528-53B3-4D0D-AD7B-DCF959930D30}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PBSFrontEnd", "..\PBSFrontEnd\PBSFrontEnd.csproj", "{43BB606A-741B-418A-BDF5-8F0048BD91B2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PBSRazorClassLibrary", "PBSRazorClassLibrary\PBSRazorClassLibrary.csproj", "{F8886411-5223-4341-9F9E-E8372DF8E77C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PBSRazorClassLibrary", "..\PBSRazorClassLibrary\PBSRazorClassLibrary.csproj", "{68C638C5-770E-41BB-A54F-11660F71B401}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PBSFrontEnd", "PBSFrontEnd\PBSFrontEnd.csproj", "{B95BF87F-888D-43D3-8125-22DC38329FAA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,20 +15,20 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{B6EEADFE-8105-4318-B44B-A8AB16BEA7A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{B6EEADFE-8105-4318-B44B-A8AB16BEA7A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{B6EEADFE-8105-4318-B44B-A8AB16BEA7A3}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
-		{B6EEADFE-8105-4318-B44B-A8AB16BEA7A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{B6EEADFE-8105-4318-B44B-A8AB16BEA7A3}.Release|Any CPU.Build.0 = Release|Any CPU
-		{B6EEADFE-8105-4318-B44B-A8AB16BEA7A3}.Release|Any CPU.Deploy.0 = Release|Any CPU
-		{43BB606A-741B-418A-BDF5-8F0048BD91B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{43BB606A-741B-418A-BDF5-8F0048BD91B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{43BB606A-741B-418A-BDF5-8F0048BD91B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{43BB606A-741B-418A-BDF5-8F0048BD91B2}.Release|Any CPU.Build.0 = Release|Any CPU
-		{68C638C5-770E-41BB-A54F-11660F71B401}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{68C638C5-770E-41BB-A54F-11660F71B401}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{68C638C5-770E-41BB-A54F-11660F71B401}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{68C638C5-770E-41BB-A54F-11660F71B401}.Release|Any CPU.Build.0 = Release|Any CPU
+		{468DE528-53B3-4D0D-AD7B-DCF959930D30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{468DE528-53B3-4D0D-AD7B-DCF959930D30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{468DE528-53B3-4D0D-AD7B-DCF959930D30}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{468DE528-53B3-4D0D-AD7B-DCF959930D30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{468DE528-53B3-4D0D-AD7B-DCF959930D30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{468DE528-53B3-4D0D-AD7B-DCF959930D30}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{F8886411-5223-4341-9F9E-E8372DF8E77C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8886411-5223-4341-9F9E-E8372DF8E77C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8886411-5223-4341-9F9E-E8372DF8E77C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8886411-5223-4341-9F9E-E8372DF8E77C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B95BF87F-888D-43D3-8125-22DC38329FAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B95BF87F-888D-43D3-8125-22DC38329FAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B95BF87F-888D-43D3-8125-22DC38329FAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B95BF87F-888D-43D3-8125-22DC38329FAA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

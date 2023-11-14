@@ -1,1 +1,0 @@
-C:\Users\gdiaz\PokemonCodeProject\PokemonBattleSim\PokemonBattleSim\PokemonBattleSim.csproj;x64
