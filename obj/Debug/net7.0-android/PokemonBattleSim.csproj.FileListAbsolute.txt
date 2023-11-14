@@ -2142,3 +2142,9 @@ C:\Users\gdiaz\PokemonCodeProject\MauiBlazorHybrid\PokemonBattleSim\obj\Debug\ne
 C:\Users\gdiaz\PokemonCodeProject\MauiBlazorHybrid\PokemonBattleSim\obj\Debug\net7.0-android\stamp\_GenerateJavaStubs.stamp
 C:\Users\gdiaz\PokemonCodeProject\MauiBlazorHybrid\PokemonBattleSim\obj\Debug\net7.0-android\stamp\_GeneratePackageManagerJava.stamp
 C:\Users\gdiaz\PokemonCodeProject\MauiBlazorHybrid\PokemonBattleSim\obj\Debug\net7.0-android\stamp\_ResolveLibraryProjectImports.stamp
+C:\Users\gdiaz\PokemonCodeProject\MauiBlazorHybrid\PokemonBattleSim\bin\Debug\net7.0-android\PBSRazorClassLibrary.staticwebassets.runtime.json
+C:\Users\gdiaz\PokemonCodeProject\MauiBlazorHybrid\PokemonBattleSim\bin\Debug\net7.0-android\PBSRazorClassLibrary.dll
+C:\Users\gdiaz\PokemonCodeProject\MauiBlazorHybrid\PokemonBattleSim\bin\Debug\net7.0-android\PBSRazorClassLibrary.pdb
+C:\Users\gdiaz\PokemonCodeProject\MauiBlazorHybrid\PokemonBattleSim\obj\Debug\net7.0-android\PokemonBattleSim.csproj.CopyComplete
+C:\Users\gdiaz\PokemonCodeProject\MauiBlazorHybrid\PokemonBattleSim\obj\Debug\net7.0-android\android\assets\PBSRazorClassLibrary.dll
+C:\Users\gdiaz\PokemonCodeProject\MauiBlazorHybrid\PokemonBattleSim\obj\Debug\net7.0-android\android\assets\PBSRazorClassLibrary.pdb

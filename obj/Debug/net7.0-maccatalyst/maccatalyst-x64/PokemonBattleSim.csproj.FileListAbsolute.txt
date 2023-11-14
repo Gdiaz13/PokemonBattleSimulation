@@ -578,3 +578,6 @@ C:\Users\gdiaz\PokemonCodeProject\MauiBlazorHybrid\PokemonBattleSim\obj\Debug\ne
 C:\Users\gdiaz\PokemonCodeProject\MauiBlazorHybrid\PokemonBattleSim\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\PokemonBattleSim.pdb
 C:\Users\gdiaz\PokemonCodeProject\MauiBlazorHybrid\PokemonBattleSim\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\PokemonBattleSim.genruntimeconfig.cache
 C:\Users\gdiaz\PokemonCodeProject\MauiBlazorHybrid\PokemonBattleSim\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\ref\PokemonBattleSim.dll
+C:\Users\gdiaz\PokemonCodeProject\MauiBlazorHybrid\PokemonBattleSim\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\PBSRazorClassLibrary.staticwebassets.runtime.json
+C:\Users\gdiaz\PokemonCodeProject\MauiBlazorHybrid\PokemonBattleSim\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\PBSRazorClassLibrary.dll
+C:\Users\gdiaz\PokemonCodeProject\MauiBlazorHybrid\PokemonBattleSim\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\PBSRazorClassLibrary.pdb

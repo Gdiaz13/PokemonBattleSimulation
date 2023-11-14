@@ -607,16 +607,16 @@
     <AppxPackagedFile Include="C:\Users\gdiaz\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.29\lib\net6.0\WinRT.Runtime.dll">
       <PackagePath>WinRT.Runtime.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\gdiaz\.nuget\packages\microsoft.aspnetcore.authorization\7.0.11\lib\net7.0\Microsoft.AspNetCore.Authorization.dll">
+    <AppxPackagedFile Include="C:\Users\gdiaz\.nuget\packages\microsoft.aspnetcore.authorization\7.0.13\lib\net7.0\Microsoft.AspNetCore.Authorization.dll">
       <PackagePath>Microsoft.AspNetCore.Authorization.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\gdiaz\.nuget\packages\microsoft.aspnetcore.components\7.0.11\lib\net7.0\Microsoft.AspNetCore.Components.dll">
+    <AppxPackagedFile Include="C:\Users\gdiaz\.nuget\packages\microsoft.aspnetcore.components\7.0.13\lib\net7.0\Microsoft.AspNetCore.Components.dll">
       <PackagePath>Microsoft.AspNetCore.Components.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\gdiaz\.nuget\packages\microsoft.aspnetcore.components.forms\7.0.11\lib\net7.0\Microsoft.AspNetCore.Components.Forms.dll">
+    <AppxPackagedFile Include="C:\Users\gdiaz\.nuget\packages\microsoft.aspnetcore.components.forms\7.0.13\lib\net7.0\Microsoft.AspNetCore.Components.Forms.dll">
       <PackagePath>Microsoft.AspNetCore.Components.Forms.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\gdiaz\.nuget\packages\microsoft.aspnetcore.components.web\7.0.11\lib\net7.0\Microsoft.AspNetCore.Components.Web.dll">
+    <AppxPackagedFile Include="C:\Users\gdiaz\.nuget\packages\microsoft.aspnetcore.components.web\7.0.13\lib\net7.0\Microsoft.AspNetCore.Components.Web.dll">
       <PackagePath>Microsoft.AspNetCore.Components.Web.dll</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\gdiaz\.nuget\packages\microsoft.aspnetcore.components.webview\7.0.11\lib\net7.0\Microsoft.AspNetCore.Components.WebView.dll">
@@ -625,7 +625,7 @@
     <AppxPackagedFile Include="C:\Users\gdiaz\.nuget\packages\microsoft.aspnetcore.components.webview.maui\7.0.96\lib\net7.0-windows10.0.19041\Microsoft.AspNetCore.Components.WebView.Maui.dll">
       <PackagePath>Microsoft.AspNetCore.Components.WebView.Maui.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\gdiaz\.nuget\packages\microsoft.aspnetcore.metadata\7.0.11\lib\net7.0\Microsoft.AspNetCore.Metadata.dll">
+    <AppxPackagedFile Include="C:\Users\gdiaz\.nuget\packages\microsoft.aspnetcore.metadata\7.0.13\lib\net7.0\Microsoft.AspNetCore.Metadata.dll">
       <PackagePath>Microsoft.AspNetCore.Metadata.dll</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\gdiaz\.nuget\packages\microsoft.extensions.configuration\7.0.0\lib\net7.0\Microsoft.Extensions.Configuration.dll">
@@ -682,7 +682,7 @@
     <AppxPackagedFile Include="C:\Users\gdiaz\.nuget\packages\microsoft.graphics.win2d\1.0.5.1\lib\net5.0-windows10.0.17763.0\Microsoft.Graphics.Canvas.Interop.dll">
       <PackagePath>Microsoft.Graphics.Canvas.Interop.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\gdiaz\.nuget\packages\microsoft.jsinterop\7.0.11\lib\net7.0\Microsoft.JSInterop.dll">
+    <AppxPackagedFile Include="C:\Users\gdiaz\.nuget\packages\microsoft.jsinterop\7.0.13\lib\net7.0\Microsoft.JSInterop.dll">
       <PackagePath>Microsoft.JSInterop.dll</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\gdiaz\.nuget\packages\microsoft.maui.graphics\7.0.96\lib\net7.0-windows10.0.19041\Microsoft.Maui.Graphics.dll">
@@ -742,6 +742,12 @@
     <AppxPackagedFile Include="C:\Users\gdiaz\.nuget\packages\microsoft.windowsappsdk\1.2.221209.1\runtimes\win10-x64\native\Microsoft.WindowsAppRuntime.Bootstrap.dll">
       <PackagePath>Microsoft.WindowsAppRuntime.Bootstrap.dll</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gdiaz\PokemonCodeProject\MauiBlazorHybrid\PBSRazorClassLibrary\bin\Debug\net7.0\PBSRazorClassLibrary.dll">
+      <PackagePath>PBSRazorClassLibrary.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gdiaz\PokemonCodeProject\MauiBlazorHybrid\PBSRazorClassLibrary\obj\Debug\net7.0\staticwebassets.development.json">
+      <PackagePath>PBSRazorClassLibrary.staticwebassets.runtime.json</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files\dotnet\packs\Microsoft.Maui.Controls.Ref.win\7.0.96\ref\net7.0-windows10.0.19041\Microsoft.Maui.Controls.Compatibility.pri">
       <PackagePath>Microsoft.Maui.Controls.Compatibility.pri</PackagePath>
     </AppxPackagedFile>
@@ -753,6 +759,15 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\gdiaz\PokemonCodeProject\MauiBlazorHybrid\PokemonBattleSim\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gdiaz\PokemonCodeProject\MauiBlazorHybrid\PBSRazorClassLibrary\obj\Debug\net7.0\scopedcss\projectbundle\PBSRazorClassLibrary.bundle.scp.css">
+      <PackagePath>wwwroot\_content\PBSRazorClassLibrary\PBSRazorClassLibrary.bundle.scp.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gdiaz\PokemonCodeProject\MauiBlazorHybrid\PBSRazorClassLibrary\wwwroot\background.png">
+      <PackagePath>wwwroot\_content\PBSRazorClassLibrary\background.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gdiaz\PokemonCodeProject\MauiBlazorHybrid\PBSRazorClassLibrary\wwwroot\exampleJsInterop.js">
+      <PackagePath>wwwroot\_content\PBSRazorClassLibrary\exampleJsInterop.js</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\gdiaz\PokemonCodeProject\MauiBlazorHybrid\PokemonBattleSim\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\scopedcss\bundle\PokemonBattleSim.styles.css">
       <PackagePath>wwwroot\PokemonBattleSim.styles.css</PackagePath>

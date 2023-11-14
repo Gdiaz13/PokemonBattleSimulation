@@ -1,12 +1,31 @@
 {
   "Version": 1,
-  "Hash": "HHyFV8R6r0dXiveYoUO0FT/lX0Oq1aq5jR+PSP9FD8A=",
+  "Hash": "BRXouTFK9y01uCuuTp9NHni7IS41Huujq3335wnTlTc=",
   "Source": "PokemonBattleSim",
   "BasePath": "/",
   "Mode": "Root",
   "ManifestType": "Publish",
-  "ReferencedProjectsConfiguration": [],
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\gdiaz\\PokemonCodeProject\\MauiBlazorHybrid\\PBSRazorClassLibrary\\PBSRazorClassLibrary.csproj",
+      "Version": 2,
+      "Source": "PBSRazorClassLibrary",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
   "DiscoveryPatterns": [
+    {
+      "Name": "PBSRazorClassLibrary\\wwwroot",
+      "Source": "PBSRazorClassLibrary",
+      "ContentRoot": "C:\\Users\\gdiaz\\PokemonCodeProject\\MauiBlazorHybrid\\PBSRazorClassLibrary\\wwwroot\\",
+      "BasePath": "_content/PBSRazorClassLibrary",
+      "Pattern": "**"
+    },
     {
       "Name": "PokemonBattleSim\\wwwroot",
       "Source": "PokemonBattleSim",
@@ -16,6 +35,57 @@
     }
   ],
   "Assets": [
+    {
+      "Identity": "C:\\Users\\gdiaz\\PokemonCodeProject\\MauiBlazorHybrid\\PBSRazorClassLibrary\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\PBSRazorClassLibrary.bundle.scp.css",
+      "SourceId": "PBSRazorClassLibrary",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\gdiaz\\PokemonCodeProject\\MauiBlazorHybrid\\PBSRazorClassLibrary\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/PBSRazorClassLibrary",
+      "RelativePath": "PBSRazorClassLibrary.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\gdiaz\\PokemonCodeProject\\MauiBlazorHybrid\\PBSRazorClassLibrary\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\PBSRazorClassLibrary.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\gdiaz\\PokemonCodeProject\\MauiBlazorHybrid\\PBSRazorClassLibrary\\wwwroot\\background.png",
+      "SourceId": "PBSRazorClassLibrary",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\gdiaz\\PokemonCodeProject\\MauiBlazorHybrid\\PBSRazorClassLibrary\\wwwroot\\",
+      "BasePath": "_content/PBSRazorClassLibrary",
+      "RelativePath": "background.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\background.png"
+    },
+    {
+      "Identity": "C:\\Users\\gdiaz\\PokemonCodeProject\\MauiBlazorHybrid\\PBSRazorClassLibrary\\wwwroot\\exampleJsInterop.js",
+      "SourceId": "PBSRazorClassLibrary",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\gdiaz\\PokemonCodeProject\\MauiBlazorHybrid\\PBSRazorClassLibrary\\wwwroot\\",
+      "BasePath": "_content/PBSRazorClassLibrary",
+      "RelativePath": "exampleJsInterop.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\exampleJsInterop.js"
+    },
     {
       "Identity": "C:\\Users\\gdiaz\\PokemonCodeProject\\MauiBlazorHybrid\\PokemonBattleSim\\obj\\Debug\\net7.0-ios\\iossimulator-x64\\scopedcss\\bundle\\PokemonBattleSim.styles.css",
       "SourceId": "PokemonBattleSim",

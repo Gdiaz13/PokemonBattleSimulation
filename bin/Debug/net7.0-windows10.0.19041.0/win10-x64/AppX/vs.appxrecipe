@@ -29,29 +29,29 @@
     <AppXManifest Include="C:\Users\gdiaz\PokemonCodeProject\MauiBlazorHybrid\PokemonBattleSim\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-11-12T01:00:19.156</Modified>
+      <Modified>2023-11-14T03:14:17.861</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\gdiaz\PokemonCodeProject\MauiBlazorHybrid\PokemonBattleSim\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2023-11-12T00:59:53.149</Modified>
+      <Modified>2023-11-14T03:13:08.674</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\gdiaz\PokemonCodeProject\MauiBlazorHybrid\PokemonBattleSim\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\PokemonBattleSim.runtimeconfig.json">
       <PackagePath>PokemonBattleSim.runtimeconfig.json</PackagePath>
-      <Modified>2023-11-12T01:00:18.987</Modified>
+      <Modified>2023-11-14T03:14:17.631</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\gdiaz\PokemonCodeProject\MauiBlazorHybrid\PokemonBattleSim\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\PokemonBattleSim.dll">
       <PackagePath>PokemonBattleSim.dll</PackagePath>
-      <Modified>2023-11-12T00:59:52.322</Modified>
+      <Modified>2023-11-14T03:13:07.316</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\gdiaz\PokemonCodeProject\MauiBlazorHybrid\PokemonBattleSim\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>PokemonBattleSim.exe</PackagePath>
-      <Modified>2023-11-12T00:59:52.336</Modified>
+      <Modified>2023-11-14T03:13:07.335</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\gdiaz\PokemonCodeProject\MauiBlazorHybrid\PokemonBattleSim\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\PokemonBattleSim.deps.json">
       <PackagePath>PokemonBattleSim.deps.json</PackagePath>
-      <Modified>2023-11-12T01:00:18.985</Modified>
+      <Modified>2023-11-14T03:14:17.628</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\gdiaz\.nuget\packages\microsoft.netcore.app.runtime.win-x64\7.0.13\runtimes\win-x64\lib\net7.0\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -809,21 +809,21 @@
       <PackagePath>WinRT.Runtime.dll</PackagePath>
       <Modified>2023-06-09T20:10:26.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\gdiaz\.nuget\packages\microsoft.aspnetcore.authorization\7.0.11\lib\net7.0\Microsoft.AspNetCore.Authorization.dll">
+    <AppxPackagedFile Include="C:\Users\gdiaz\.nuget\packages\microsoft.aspnetcore.authorization\7.0.13\lib\net7.0\Microsoft.AspNetCore.Authorization.dll">
       <PackagePath>Microsoft.AspNetCore.Authorization.dll</PackagePath>
-      <Modified>2023-08-25T15:29:00.000</Modified>
+      <Modified>2023-10-20T17:29:20.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\gdiaz\.nuget\packages\microsoft.aspnetcore.components\7.0.11\lib\net7.0\Microsoft.AspNetCore.Components.dll">
+    <AppxPackagedFile Include="C:\Users\gdiaz\.nuget\packages\microsoft.aspnetcore.components\7.0.13\lib\net7.0\Microsoft.AspNetCore.Components.dll">
       <PackagePath>Microsoft.AspNetCore.Components.dll</PackagePath>
-      <Modified>2023-08-25T15:28:24.000</Modified>
+      <Modified>2023-10-20T17:28:44.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\gdiaz\.nuget\packages\microsoft.aspnetcore.components.forms\7.0.11\lib\net7.0\Microsoft.AspNetCore.Components.Forms.dll">
+    <AppxPackagedFile Include="C:\Users\gdiaz\.nuget\packages\microsoft.aspnetcore.components.forms\7.0.13\lib\net7.0\Microsoft.AspNetCore.Components.Forms.dll">
       <PackagePath>Microsoft.AspNetCore.Components.Forms.dll</PackagePath>
-      <Modified>2023-08-25T15:29:12.000</Modified>
+      <Modified>2023-10-20T17:29:32.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\gdiaz\.nuget\packages\microsoft.aspnetcore.components.web\7.0.11\lib\net7.0\Microsoft.AspNetCore.Components.Web.dll">
+    <AppxPackagedFile Include="C:\Users\gdiaz\.nuget\packages\microsoft.aspnetcore.components.web\7.0.13\lib\net7.0\Microsoft.AspNetCore.Components.Web.dll">
       <PackagePath>Microsoft.AspNetCore.Components.Web.dll</PackagePath>
-      <Modified>2023-08-25T15:29:14.000</Modified>
+      <Modified>2023-10-20T17:29:34.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\gdiaz\.nuget\packages\microsoft.aspnetcore.components.webview\7.0.11\lib\net7.0\Microsoft.AspNetCore.Components.WebView.dll">
       <PackagePath>Microsoft.AspNetCore.Components.WebView.dll</PackagePath>
@@ -833,9 +833,9 @@
       <PackagePath>Microsoft.AspNetCore.Components.WebView.Maui.dll</PackagePath>
       <Modified>2023-09-21T18:06:40.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\gdiaz\.nuget\packages\microsoft.aspnetcore.metadata\7.0.11\lib\net7.0\Microsoft.AspNetCore.Metadata.dll">
+    <AppxPackagedFile Include="C:\Users\gdiaz\.nuget\packages\microsoft.aspnetcore.metadata\7.0.13\lib\net7.0\Microsoft.AspNetCore.Metadata.dll">
       <PackagePath>Microsoft.AspNetCore.Metadata.dll</PackagePath>
-      <Modified>2023-08-25T15:28:20.000</Modified>
+      <Modified>2023-10-20T17:29:16.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\gdiaz\.nuget\packages\microsoft.extensions.configuration\7.0.0\lib\net7.0\Microsoft.Extensions.Configuration.dll">
       <PackagePath>Microsoft.Extensions.Configuration.dll</PackagePath>
@@ -909,9 +909,9 @@
       <PackagePath>Microsoft.Graphics.Canvas.Interop.dll</PackagePath>
       <Modified>2023-05-31T20:07:52.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\gdiaz\.nuget\packages\microsoft.jsinterop\7.0.11\lib\net7.0\Microsoft.JSInterop.dll">
+    <AppxPackagedFile Include="C:\Users\gdiaz\.nuget\packages\microsoft.jsinterop\7.0.13\lib\net7.0\Microsoft.JSInterop.dll">
       <PackagePath>Microsoft.JSInterop.dll</PackagePath>
-      <Modified>2023-08-25T15:28:12.000</Modified>
+      <Modified>2023-10-20T17:29:30.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\gdiaz\.nuget\packages\microsoft.maui.graphics\7.0.96\lib\net7.0-windows10.0.19041\Microsoft.Maui.Graphics.dll">
       <PackagePath>Microsoft.Maui.Graphics.dll</PackagePath>
@@ -989,6 +989,14 @@
       <PackagePath>Microsoft.WindowsAppRuntime.Bootstrap.dll</PackagePath>
       <Modified>2022-11-08T19:31:24.000</Modified>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gdiaz\PokemonCodeProject\MauiBlazorHybrid\PBSRazorClassLibrary\bin\Debug\net7.0\PBSRazorClassLibrary.dll">
+      <PackagePath>PBSRazorClassLibrary.dll</PackagePath>
+      <Modified>2023-11-14T03:13:03.020</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gdiaz\PokemonCodeProject\MauiBlazorHybrid\PBSRazorClassLibrary\obj\Debug\net7.0\staticwebassets.development.json">
+      <PackagePath>PBSRazorClassLibrary.staticwebassets.runtime.json</PackagePath>
+      <Modified>2023-11-14T03:13:03.030</Modified>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files\dotnet\packs\Microsoft.Maui.Controls.Ref.win\7.0.96\ref\net7.0-windows10.0.19041\Microsoft.Maui.Controls.Compatibility.pri">
       <PackagePath>Microsoft.Maui.Controls.Compatibility.pri</PackagePath>
       <Modified>2023-09-21T23:57:32.000</Modified>
@@ -1005,13 +1013,25 @@
       <PackagePath>AboutAssets.txt</PackagePath>
       <Modified>2023-11-11T05:48:16.005</Modified>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gdiaz\PokemonCodeProject\MauiBlazorHybrid\PBSRazorClassLibrary\obj\Debug\net7.0\scopedcss\projectbundle\PBSRazorClassLibrary.bundle.scp.css">
+      <PackagePath>wwwroot\_content\PBSRazorClassLibrary\PBSRazorClassLibrary.bundle.scp.css</PackagePath>
+      <Modified>2023-11-14T03:13:03.115</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gdiaz\PokemonCodeProject\MauiBlazorHybrid\PBSRazorClassLibrary\wwwroot\background.png">
+      <PackagePath>wwwroot\_content\PBSRazorClassLibrary\background.png</PackagePath>
+      <Modified>2023-11-14T02:47:37.515</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gdiaz\PokemonCodeProject\MauiBlazorHybrid\PBSRazorClassLibrary\wwwroot\exampleJsInterop.js">
+      <PackagePath>wwwroot\_content\PBSRazorClassLibrary\exampleJsInterop.js</PackagePath>
+      <Modified>2023-11-14T02:47:37.517</Modified>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\gdiaz\PokemonCodeProject\MauiBlazorHybrid\PokemonBattleSim\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\scopedcss\bundle\PokemonBattleSim.styles.css">
       <PackagePath>wwwroot\PokemonBattleSim.styles.css</PackagePath>
-      <Modified>2023-11-12T00:59:48.593</Modified>
+      <Modified>2023-11-14T03:13:04.088</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\gdiaz\PokemonCodeProject\MauiBlazorHybrid\PokemonBattleSim\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\scopedcss\projectbundle\PokemonBattleSim.bundle.scp.css">
       <PackagePath>wwwroot\PokemonBattleSim.bundle.scp.css</PackagePath>
-      <Modified>2023-11-12T00:59:48.594</Modified>
+      <Modified>2023-11-14T03:13:04.089</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\gdiaz\PokemonCodeProject\MauiBlazorHybrid\PokemonBattleSim\wwwroot\css\app.css">
       <PackagePath>wwwroot\css\app.css</PackagePath>
@@ -1075,23 +1095,23 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\gdiaz\PokemonCodeProject\MauiBlazorHybrid\PokemonBattleSim\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
       <PackagePath>splashSplashScreen.scale-100.png</PackagePath>
-      <Modified>2023-11-12T00:59:51.778</Modified>
+      <Modified>2023-11-14T03:13:06.796</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\gdiaz\PokemonCodeProject\MauiBlazorHybrid\PokemonBattleSim\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png">
       <PackagePath>splashSplashScreen.scale-125.png</PackagePath>
-      <Modified>2023-11-12T00:59:51.787</Modified>
+      <Modified>2023-11-14T03:13:06.805</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\gdiaz\PokemonCodeProject\MauiBlazorHybrid\PokemonBattleSim\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png">
       <PackagePath>splashSplashScreen.scale-150.png</PackagePath>
-      <Modified>2023-11-12T00:59:51.798</Modified>
+      <Modified>2023-11-14T03:13:06.817</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\gdiaz\PokemonCodeProject\MauiBlazorHybrid\PokemonBattleSim\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png">
       <PackagePath>splashSplashScreen.scale-200.png</PackagePath>
-      <Modified>2023-11-12T00:59:51.816</Modified>
+      <Modified>2023-11-14T03:13:06.834</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\gdiaz\PokemonCodeProject\MauiBlazorHybrid\PokemonBattleSim\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
       <PackagePath>splashSplashScreen.scale-400.png</PackagePath>
-      <Modified>2023-11-12T00:59:51.880</Modified>
+      <Modified>2023-11-14T03:13:06.900</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\gdiaz\PokemonCodeProject\MauiBlazorHybrid\PokemonBattleSim\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
       <PackagePath>OpenSans-Regular.ttf</PackagePath>
@@ -1099,207 +1119,207 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\gdiaz\PokemonCodeProject\MauiBlazorHybrid\PokemonBattleSim\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
       <PackagePath>appicon.ico</PackagePath>
-      <Modified>2023-11-12T00:59:51.905</Modified>
+      <Modified>2023-11-14T03:13:06.913</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\gdiaz\PokemonCodeProject\MauiBlazorHybrid\PokemonBattleSim\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
       <PackagePath>appiconLargeTile.scale-100.png</PackagePath>
-      <Modified>2023-11-12T00:59:52.069</Modified>
+      <Modified>2023-11-14T03:13:07.077</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\gdiaz\PokemonCodeProject\MauiBlazorHybrid\PokemonBattleSim\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
       <PackagePath>appiconLargeTile.scale-125.png</PackagePath>
-      <Modified>2023-11-12T00:59:52.076</Modified>
+      <Modified>2023-11-14T03:13:07.084</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\gdiaz\PokemonCodeProject\MauiBlazorHybrid\PokemonBattleSim\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
       <PackagePath>appiconLargeTile.scale-150.png</PackagePath>
-      <Modified>2023-11-12T00:59:52.082</Modified>
+      <Modified>2023-11-14T03:13:07.090</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\gdiaz\PokemonCodeProject\MauiBlazorHybrid\PokemonBattleSim\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
       <PackagePath>appiconLargeTile.scale-200.png</PackagePath>
-      <Modified>2023-11-12T00:59:52.091</Modified>
+      <Modified>2023-11-14T03:13:07.099</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\gdiaz\PokemonCodeProject\MauiBlazorHybrid\PokemonBattleSim\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
       <PackagePath>appiconLargeTile.scale-400.png</PackagePath>
-      <Modified>2023-11-12T00:59:52.127</Modified>
+      <Modified>2023-11-14T03:13:07.134</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\gdiaz\PokemonCodeProject\MauiBlazorHybrid\PokemonBattleSim\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-16.png</PackagePath>
-      <Modified>2023-11-12T00:59:51.961</Modified>
+      <Modified>2023-11-14T03:13:06.964</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\gdiaz\PokemonCodeProject\MauiBlazorHybrid\PokemonBattleSim\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-24.png</PackagePath>
-      <Modified>2023-11-12T00:59:51.963</Modified>
+      <Modified>2023-11-14T03:13:06.967</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\gdiaz\PokemonCodeProject\MauiBlazorHybrid\PokemonBattleSim\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-256.png</PackagePath>
-      <Modified>2023-11-12T00:59:51.974</Modified>
+      <Modified>2023-11-14T03:13:06.978</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\gdiaz\PokemonCodeProject\MauiBlazorHybrid\PokemonBattleSim\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-32.png</PackagePath>
-      <Modified>2023-11-12T00:59:51.967</Modified>
+      <Modified>2023-11-14T03:13:06.970</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\gdiaz\PokemonCodeProject\MauiBlazorHybrid\PokemonBattleSim\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-48.png</PackagePath>
-      <Modified>2023-11-12T00:59:51.969</Modified>
+      <Modified>2023-11-14T03:13:06.973</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\gdiaz\PokemonCodeProject\MauiBlazorHybrid\PokemonBattleSim\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-16.png</PackagePath>
-      <Modified>2023-11-12T00:59:51.938</Modified>
+      <Modified>2023-11-14T03:13:06.950</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\gdiaz\PokemonCodeProject\MauiBlazorHybrid\PokemonBattleSim\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-24.png</PackagePath>
-      <Modified>2023-11-12T00:59:51.941</Modified>
+      <Modified>2023-11-14T03:13:06.952</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\gdiaz\PokemonCodeProject\MauiBlazorHybrid\PokemonBattleSim\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-256.png</PackagePath>
-      <Modified>2023-11-12T00:59:51.958</Modified>
+      <Modified>2023-11-14T03:13:06.962</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\gdiaz\PokemonCodeProject\MauiBlazorHybrid\PokemonBattleSim\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-32.png</PackagePath>
-      <Modified>2023-11-12T00:59:51.951</Modified>
+      <Modified>2023-11-14T03:13:06.955</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\gdiaz\PokemonCodeProject\MauiBlazorHybrid\PokemonBattleSim\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-48.png</PackagePath>
-      <Modified>2023-11-12T00:59:51.954</Modified>
+      <Modified>2023-11-14T03:13:06.957</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\gdiaz\PokemonCodeProject\MauiBlazorHybrid\PokemonBattleSim\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
       <PackagePath>appiconLogo.scale-100.png</PackagePath>
-      <Modified>2023-11-12T00:59:51.910</Modified>
+      <Modified>2023-11-14T03:13:06.921</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\gdiaz\PokemonCodeProject\MauiBlazorHybrid\PokemonBattleSim\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
       <PackagePath>appiconLogo.scale-125.png</PackagePath>
-      <Modified>2023-11-12T00:59:51.913</Modified>
+      <Modified>2023-11-14T03:13:06.924</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\gdiaz\PokemonCodeProject\MauiBlazorHybrid\PokemonBattleSim\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
       <PackagePath>appiconLogo.scale-150.png</PackagePath>
-      <Modified>2023-11-12T00:59:51.915</Modified>
+      <Modified>2023-11-14T03:13:06.927</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\gdiaz\PokemonCodeProject\MauiBlazorHybrid\PokemonBattleSim\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
       <PackagePath>appiconLogo.scale-200.png</PackagePath>
-      <Modified>2023-11-12T00:59:51.918</Modified>
+      <Modified>2023-11-14T03:13:06.929</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\gdiaz\PokemonCodeProject\MauiBlazorHybrid\PokemonBattleSim\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
       <PackagePath>appiconLogo.scale-400.png</PackagePath>
-      <Modified>2023-11-12T00:59:51.923</Modified>
+      <Modified>2023-11-14T03:13:06.933</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\gdiaz\PokemonCodeProject\MauiBlazorHybrid\PokemonBattleSim\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png">
       <PackagePath>appiconLogo.targetsize-16.png</PackagePath>
-      <Modified>2023-11-12T00:59:51.925</Modified>
+      <Modified>2023-11-14T03:13:06.935</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\gdiaz\PokemonCodeProject\MauiBlazorHybrid\PokemonBattleSim\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png">
       <PackagePath>appiconLogo.targetsize-24.png</PackagePath>
-      <Modified>2023-11-12T00:59:51.927</Modified>
+      <Modified>2023-11-14T03:13:06.937</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\gdiaz\PokemonCodeProject\MauiBlazorHybrid\PokemonBattleSim\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png">
       <PackagePath>appiconLogo.targetsize-256.png</PackagePath>
-      <Modified>2023-11-12T00:59:51.936</Modified>
+      <Modified>2023-11-14T03:13:06.947</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\gdiaz\PokemonCodeProject\MauiBlazorHybrid\PokemonBattleSim\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png">
       <PackagePath>appiconLogo.targetsize-32.png</PackagePath>
-      <Modified>2023-11-12T00:59:51.930</Modified>
+      <Modified>2023-11-14T03:13:06.940</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\gdiaz\PokemonCodeProject\MauiBlazorHybrid\PokemonBattleSim\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png">
       <PackagePath>appiconLogo.targetsize-48.png</PackagePath>
-      <Modified>2023-11-12T00:59:51.932</Modified>
+      <Modified>2023-11-14T03:13:06.942</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\gdiaz\PokemonCodeProject\MauiBlazorHybrid\PokemonBattleSim\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
       <PackagePath>appiconMediumTile.scale-100.png</PackagePath>
-      <Modified>2023-11-12T00:59:52.007</Modified>
+      <Modified>2023-11-14T03:13:07.011</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\gdiaz\PokemonCodeProject\MauiBlazorHybrid\PokemonBattleSim\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
       <PackagePath>appiconMediumTile.scale-125.png</PackagePath>
-      <Modified>2023-11-12T00:59:52.010</Modified>
+      <Modified>2023-11-14T03:13:07.015</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\gdiaz\PokemonCodeProject\MauiBlazorHybrid\PokemonBattleSim\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
       <PackagePath>appiconMediumTile.scale-150.png</PackagePath>
-      <Modified>2023-11-12T00:59:52.014</Modified>
+      <Modified>2023-11-14T03:13:07.018</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\gdiaz\PokemonCodeProject\MauiBlazorHybrid\PokemonBattleSim\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
       <PackagePath>appiconMediumTile.scale-200.png</PackagePath>
-      <Modified>2023-11-12T00:59:52.019</Modified>
+      <Modified>2023-11-14T03:13:07.023</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\gdiaz\PokemonCodeProject\MauiBlazorHybrid\PokemonBattleSim\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
       <PackagePath>appiconMediumTile.scale-400.png</PackagePath>
-      <Modified>2023-11-12T00:59:52.028</Modified>
+      <Modified>2023-11-14T03:13:07.032</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\gdiaz\PokemonCodeProject\MauiBlazorHybrid\PokemonBattleSim\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
       <PackagePath>appiconSmallTile.scale-100.png</PackagePath>
-      <Modified>2023-11-12T00:59:51.992</Modified>
+      <Modified>2023-11-14T03:13:06.995</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\gdiaz\PokemonCodeProject\MauiBlazorHybrid\PokemonBattleSim\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
       <PackagePath>appiconSmallTile.scale-125.png</PackagePath>
-      <Modified>2023-11-12T00:59:51.994</Modified>
+      <Modified>2023-11-14T03:13:06.997</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\gdiaz\PokemonCodeProject\MauiBlazorHybrid\PokemonBattleSim\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
       <PackagePath>appiconSmallTile.scale-150.png</PackagePath>
-      <Modified>2023-11-12T00:59:51.996</Modified>
+      <Modified>2023-11-14T03:13:07.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\gdiaz\PokemonCodeProject\MauiBlazorHybrid\PokemonBattleSim\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
       <PackagePath>appiconSmallTile.scale-200.png</PackagePath>
-      <Modified>2023-11-12T00:59:51.999</Modified>
+      <Modified>2023-11-14T03:13:07.003</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\gdiaz\PokemonCodeProject\MauiBlazorHybrid\PokemonBattleSim\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
       <PackagePath>appiconSmallTile.scale-400.png</PackagePath>
-      <Modified>2023-11-12T00:59:52.004</Modified>
+      <Modified>2023-11-14T03:13:07.008</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\gdiaz\PokemonCodeProject\MauiBlazorHybrid\PokemonBattleSim\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
       <PackagePath>appiconStoreLogo.scale-100.png</PackagePath>
-      <Modified>2023-11-12T00:59:51.977</Modified>
+      <Modified>2023-11-14T03:13:06.980</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\gdiaz\PokemonCodeProject\MauiBlazorHybrid\PokemonBattleSim\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
       <PackagePath>appiconStoreLogo.scale-125.png</PackagePath>
-      <Modified>2023-11-12T00:59:51.980</Modified>
+      <Modified>2023-11-14T03:13:06.983</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\gdiaz\PokemonCodeProject\MauiBlazorHybrid\PokemonBattleSim\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
       <PackagePath>appiconStoreLogo.scale-150.png</PackagePath>
-      <Modified>2023-11-12T00:59:51.983</Modified>
+      <Modified>2023-11-14T03:13:06.986</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\gdiaz\PokemonCodeProject\MauiBlazorHybrid\PokemonBattleSim\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
       <PackagePath>appiconStoreLogo.scale-200.png</PackagePath>
-      <Modified>2023-11-12T00:59:51.986</Modified>
+      <Modified>2023-11-14T03:13:06.988</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\gdiaz\PokemonCodeProject\MauiBlazorHybrid\PokemonBattleSim\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
       <PackagePath>appiconStoreLogo.scale-400.png</PackagePath>
-      <Modified>2023-11-12T00:59:51.990</Modified>
+      <Modified>2023-11-14T03:13:06.992</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\gdiaz\PokemonCodeProject\MauiBlazorHybrid\PokemonBattleSim\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
       <PackagePath>appiconWideTile.scale-100.png</PackagePath>
-      <Modified>2023-11-12T00:59:52.031</Modified>
+      <Modified>2023-11-14T03:13:07.036</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\gdiaz\PokemonCodeProject\MauiBlazorHybrid\PokemonBattleSim\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
       <PackagePath>appiconWideTile.scale-125.png</PackagePath>
-      <Modified>2023-11-12T00:59:52.035</Modified>
+      <Modified>2023-11-14T03:13:07.041</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\gdiaz\PokemonCodeProject\MauiBlazorHybrid\PokemonBattleSim\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
       <PackagePath>appiconWideTile.scale-150.png</PackagePath>
-      <Modified>2023-11-12T00:59:52.040</Modified>
+      <Modified>2023-11-14T03:13:07.046</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\gdiaz\PokemonCodeProject\MauiBlazorHybrid\PokemonBattleSim\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
       <PackagePath>appiconWideTile.scale-200.png</PackagePath>
-      <Modified>2023-11-12T00:59:52.047</Modified>
+      <Modified>2023-11-14T03:13:07.053</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\gdiaz\PokemonCodeProject\MauiBlazorHybrid\PokemonBattleSim\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
       <PackagePath>appiconWideTile.scale-400.png</PackagePath>
-      <Modified>2023-11-12T00:59:52.064</Modified>
+      <Modified>2023-11-14T03:13:07.071</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\gdiaz\PokemonCodeProject\MauiBlazorHybrid\PokemonBattleSim\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
       <PackagePath>dotnet_bot.scale-100.png</PackagePath>
-      <Modified>2023-11-12T00:59:51.927</Modified>
+      <Modified>2023-11-14T03:13:06.914</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\gdiaz\PokemonCodeProject\MauiBlazorHybrid\PokemonBattleSim\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
       <PackagePath>dotnet_bot.scale-125.png</PackagePath>
-      <Modified>2023-11-12T00:59:51.932</Modified>
+      <Modified>2023-11-14T03:13:06.923</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\gdiaz\PokemonCodeProject\MauiBlazorHybrid\PokemonBattleSim\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
       <PackagePath>dotnet_bot.scale-150.png</PackagePath>
-      <Modified>2023-11-12T00:59:51.940</Modified>
+      <Modified>2023-11-14T03:13:06.931</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\gdiaz\PokemonCodeProject\MauiBlazorHybrid\PokemonBattleSim\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
       <PackagePath>dotnet_bot.scale-200.png</PackagePath>
-      <Modified>2023-11-12T00:59:51.960</Modified>
+      <Modified>2023-11-14T03:13:06.943</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\gdiaz\PokemonCodeProject\MauiBlazorHybrid\PokemonBattleSim\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
       <PackagePath>dotnet_bot.scale-400.png</PackagePath>
-      <Modified>2023-11-12T00:59:51.989</Modified>
+      <Modified>2023-11-14T03:13:06.970</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\gdiaz\PokemonCodeProject\MauiBlazorHybrid\PokemonBattleSim\Components\Layout\MainLayout.razor.css">
       <PackagePath>Components\Layout\MainLayout.razor.css</PackagePath>
