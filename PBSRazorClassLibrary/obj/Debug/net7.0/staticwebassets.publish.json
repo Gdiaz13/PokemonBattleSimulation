@@ -1,88 +1,11 @@
 {
   "Version": 1,
-  "Hash": "TOjv1mzsaG8NIp475tkVS88AOpRkRqrrRbUTgQU5Md0=",
+  "Hash": "1tr/tVRwz6EF6tXOaMvgLBp1o1Ta7FV6dgwub0f+ido=",
   "Source": "PBSRazorClassLibrary",
   "BasePath": "_content/PBSRazorClassLibrary",
   "Mode": "Default",
   "ManifestType": "Publish",
   "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [
-    {
-      "Name": "PBSRazorClassLibrary\\wwwroot",
-      "Source": "PBSRazorClassLibrary",
-      "ContentRoot": "C:\\Users\\gdiaz\\PokemonCodeProject\\MauiBlazorHybrid\\PBSRazorClassLibrary\\wwwroot\\",
-      "BasePath": "_content/PBSRazorClassLibrary",
-      "Pattern": "**"
-    }
-  ],
-  "Assets": [
-    {
-      "Identity": "C:\\Users\\gdiaz\\PokemonCodeProject\\MauiBlazorHybrid\\PBSRazorClassLibrary\\obj\\Debug\\net7.0\\scopedcss\\bundle\\PBSRazorClassLibrary.styles.css",
-      "SourceId": "PBSRazorClassLibrary",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\gdiaz\\PokemonCodeProject\\MauiBlazorHybrid\\PBSRazorClassLibrary\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
-      "BasePath": "_content/PBSRazorClassLibrary",
-      "RelativePath": "PBSRazorClassLibrary.styles.css",
-      "AssetKind": "All",
-      "AssetMode": "CurrentProject",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "ScopedCss",
-      "AssetTraitValue": "ApplicationBundle",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\gdiaz\\PokemonCodeProject\\MauiBlazorHybrid\\PBSRazorClassLibrary\\obj\\Debug\\net7.0\\scopedcss\\bundle\\PBSRazorClassLibrary.styles.css"
-    },
-    {
-      "Identity": "C:\\Users\\gdiaz\\PokemonCodeProject\\MauiBlazorHybrid\\PBSRazorClassLibrary\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\PBSRazorClassLibrary.bundle.scp.css",
-      "SourceId": "PBSRazorClassLibrary",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\gdiaz\\PokemonCodeProject\\MauiBlazorHybrid\\PBSRazorClassLibrary\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
-      "BasePath": "_content/PBSRazorClassLibrary",
-      "RelativePath": "PBSRazorClassLibrary.bundle.scp.css",
-      "AssetKind": "All",
-      "AssetMode": "Reference",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "ScopedCss",
-      "AssetTraitValue": "ProjectBundle",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\gdiaz\\PokemonCodeProject\\MauiBlazorHybrid\\PBSRazorClassLibrary\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\PBSRazorClassLibrary.bundle.scp.css"
-    },
-    {
-      "Identity": "C:\\Users\\gdiaz\\PokemonCodeProject\\MauiBlazorHybrid\\PBSRazorClassLibrary\\wwwroot\\background.png",
-      "SourceId": "PBSRazorClassLibrary",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gdiaz\\PokemonCodeProject\\MauiBlazorHybrid\\PBSRazorClassLibrary\\wwwroot\\",
-      "BasePath": "_content/PBSRazorClassLibrary",
-      "RelativePath": "background.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\background.png"
-    },
-    {
-      "Identity": "C:\\Users\\gdiaz\\PokemonCodeProject\\MauiBlazorHybrid\\PBSRazorClassLibrary\\wwwroot\\exampleJsInterop.js",
-      "SourceId": "PBSRazorClassLibrary",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gdiaz\\PokemonCodeProject\\MauiBlazorHybrid\\PBSRazorClassLibrary\\wwwroot\\",
-      "BasePath": "_content/PBSRazorClassLibrary",
-      "RelativePath": "exampleJsInterop.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\exampleJsInterop.js"
-    }
-  ]
+  "DiscoveryPatterns": [],
+  "Assets": []
 }
